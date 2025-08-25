@@ -16,6 +16,17 @@ I find a lot of joy in words & expression. I'm addicted to wordplay.
 - 📡 Prioritizing learning new technologies and sharing what I learn
 - 🎯 Open to aligned **software engineering opportunities**
 
+## 🚀 Featured Projects
+
+### 📚 [Quarterly Learnings](https://github.com/campbellkearns/quarterly-learnings)
+**Next.js** • Educational platform and content management system focused on developer learning and growth.
+
+### 📚 [Kearns & Sons](https://github.com/campbellkearns/kearns-and-sons)
+**Next.js + Payload.js** • Funeral Home Client(?) Management and Memorial Site
+
+### 🎮 [Scratch My Twitch](https://github.com/campbellkearns/scratch-my-twitch) _currently pre-release_
+**JavaScript** • Easily update Twitch stream info.
+
 ## 🛠️ Technical Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
@@ -35,17 +46,6 @@ I find a lot of joy in words & expression. I'm addicted to wordplay.
 - **Playwright.js**
 
 </div>
-
-## 🚀 Featured Projects
-
-### 📚 [Quarterly Learnings](https://github.com/campbellkearns/quarterly-learnings)
-**Next.js** • Educational platform and content management system focused on developer learning and growth.
-
-### 📚 [Kearns & Sons](https://github.com/campbellkearns/kearns-and-sons)
-**Next.js + Payload.js** • Funeral Home Client(?) Management and Memorial Site
-
-### 🎮 [Scratch My Twitch](https://github.com/campbellkearns/scratch-my-twitch) _currently pre-release_
-**JavaScript** • Easily update Twitch stream info.
 
 ## 📈 GitHub Stats
 
