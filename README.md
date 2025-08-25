@@ -11,9 +11,9 @@
 
 I find a lot of joy in words & expression. I'm addicted to wordplay.
 
-- 🔭 Currently working on **Quarterly Learnings** & **Scratch My Twitch** 
+- 👨🏾‍💻 Currently working on **Quarterly Learnings**, **Kearns & Sons Funeral**, & **Scratch My Twitch** 
 - 💡 Curious about how **developer education** and **mentorship** evolve given LLM capabilities & access (or not)
-- 🌱 Prioritizing learning new technologies and sharing what I learn
+- 📡 Prioritizing learning new technologies and sharing what I learn
 - 🎯 Open to aligned **software engineering opportunities**
 
 ## 🛠️ Technical Stack
@@ -39,7 +39,10 @@ I find a lot of joy in words & expression. I'm addicted to wordplay.
 ## 🚀 Featured Projects
 
 ### 📚 [Quarterly Learnings](https://github.com/campbellkearns/quarterly-learnings)
-**JavaScript** • Educational platform and content management system focused on developer learning and growth.
+**Next.js** • Educational platform and content management system focused on developer learning and growth.
+
+### 📚 [Kearns & Sons](https://github.com/campbellkearns/kearns-and-sons)
+**Next.js + Payload.js** • Funeral Home Client(?) Management and Memorial Site
 
 ### 🎮 [Scratch My Twitch](https://github.com/campbellkearns/scratch-my-twitch) _currently pre-release_
 **JavaScript** • Easily update Twitch stream info.
