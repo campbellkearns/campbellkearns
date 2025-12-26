@@ -47,13 +47,6 @@ I find a lot of joy in words & expression. I'm addicted to wordplay.
 
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center" style="margin: 30px 0;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=campbellkearns&show_icons=true&theme=default&hide_border=true&title_color=369369&icon_color=369369&text_color=333&bg_color=ffffff" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campbellkearns&layout=compact&theme=default&hide_border=true&title_color=369369&text_color=333&bg_color=ffffff" alt="Top Languages" />
-</div>
-
 ## 🌐 Connect & Collaborate
 
 <div align="center" style="margin: 30px 0;">
