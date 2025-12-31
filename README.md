@@ -14,7 +14,7 @@ I find a lot of joy in words & expression. I'm addicted to wordplay.
 - 👨🏾‍💻 Currently working on **Quarterly Learnings**, **Kearns & Sons Funeral**, & **Scratch My Twitch** 
 - 💡 Curious about how **developer education** and **mentorship** evolve given LLM capabilities & access (or not)
 - 📡 Prioritizing learning new technologies and sharing what I learn
-- 🎯 Open to aligned **software engineering opportunities**
+- 🎯 Seeking aligned **software engineering** projects & work.
 
 ## 🚀 Featured Projects
 
@@ -27,7 +27,7 @@ I find a lot of joy in words & expression. I'm addicted to wordplay.
 ### 📚 [Quarterly Learnings](https://github.com/campbellkearns/quarterly-learnings)
 **Next.js** • Educational platform and content management system focused on developer learning and growth.
 
-## 🛠️ Technical Stack
+## 🛠️ Software I Actively Use
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
 
@@ -44,6 +44,12 @@ I find a lot of joy in words & expression. I'm addicted to wordplay.
 - **Docker** 
 - **Git/GitHub/GitHub Actions**
 - **Playwright.js**
+
+**Creative Applications**
+- **Affinity Designer**
+- **Affinity Photo**
+- **OBS (Open Broadcaster Software)**
+- **Descript**
 
 </div>
 
