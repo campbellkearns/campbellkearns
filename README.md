@@ -21,8 +21,8 @@ I find a lot of joy in words & expression. I'm addicted to wordplay.
 ### 🕊️ [Kearns & Sons](https://github.com/campbellkearns/kearns-and-sons)
 **Next.js + Payload.js** • Funeral Home Client(?) Management and Memorial Site
 
-### 🎮 [Scratch My Twitch](https://github.com/campbellkearns/scratch-my-twitch) _currently pre-release_
-**React** • Easily update Twitch stream info.
+### 🎮 ~Scratch My Twitch~ [Stream Chameleon](https://github.com/campbellkearns/scratch-my-twitch) _currently pre-release_
+**React** • Easily update and save recurring stream info.
 
 ### 📚 [Quarterly Learnings](https://github.com/campbellkearns/quarterly-learnings)
 **Next.js** • Educational platform and content management system focused on developer learning and growth.
